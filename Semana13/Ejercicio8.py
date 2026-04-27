@@ -1,0 +1,7 @@
+while True:
+    filas = int(input("Altura (0 para salir):"))
+    if filas == 0:
+        break
+    for i in range(1, filas + 1):
+        if i % 2 != 0:
+            print("*" * i)

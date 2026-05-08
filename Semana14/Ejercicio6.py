@@ -12,3 +12,5 @@ def contar_mayores_a_50(lista):
 aleatorios = [random.randint(1, 100) for _ in range(10)]
 print(f"Lista generada: {aleatorios}")
 print(f"Mayores a 50: {contar_mayores_a_50(aleatorios)}")
+
+#

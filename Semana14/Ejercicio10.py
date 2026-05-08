@@ -15,3 +15,5 @@ for i in range(6):
     elementos.append(valor)
 
 print(f"Lista ordenada: {ordenar_ascendente(elementos)}")
+
+# fin
